@@ -116,7 +116,7 @@ html {
 }
 
 .nav-link {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 700;
   color: var(--white-color);
   text-transform: uppercase;
@@ -290,7 +290,7 @@ html {
 }
 
 .popular-tours-heading {
-  font-size: 8rem;
+  font-size: 6rem;
   text-align: center;
   margin-bottom: 8rem;
   color: var(--primary-color);
@@ -396,9 +396,9 @@ html {
 
 .navigation-button {
   position: absolute;
-  top: 0.5rem;
-  left: 0.5rem;
-  padding: 0.5rem;
+  top: 1rem;
+  left: 1rem;
+  padding: 0.8rem;
   background-color: rgba(255, 255, 255, 0.8);
   color: var(--light-grey-color);
   border-radius: 0.3rem;
