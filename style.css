@@ -419,6 +419,7 @@ html {
   color: var(--white-color);
   background-color: var(--primary-color);
   border: solid 2px white;
+  transform: scale(0.9);
   transition: 0.5s;
 }
 /* End of Popular tours */
